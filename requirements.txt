@@ -2,3 +2,5 @@ flask[async]
 aiohttp
 httpx
 requests
+dkdrlahel2
+battle-cats-save-editor
